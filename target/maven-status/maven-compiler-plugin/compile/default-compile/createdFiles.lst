@@ -1,0 +1,4 @@
+com\test\App.class
+com\test\model\FileInfo.class
+com\test\service\FileServiceImpl.class
+com\test\FileService.class
